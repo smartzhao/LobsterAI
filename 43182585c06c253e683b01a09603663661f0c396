@@ -1,0 +1,27 @@
+src/main/im/imChatHandler.ts
+  57c726ac8ed1ab61 147-150
+src/main/libs/coworkOpenAICompatProxy.ts
+  57c726ac8ed1ab61 777-780
+src/renderer/components/Settings.tsx
+  57c726ac8ed1ab61 330-333,1505
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "43182585c06c253e683b01a09603663661f0c396",
+  "prompts": {
+    "57c726ac8ed1ab61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c978b6cb-0ceb-4ecd-bf7d-fc920bb4d8d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhaochong <zhaochong01@corp.netease.com>",
+      "messages": [],
+      "total_additions": 34,
+      "total_deletions": 6,
+      "accepted_lines": 34,
+      "overriden_lines": 0
+    }
+  }
+}
