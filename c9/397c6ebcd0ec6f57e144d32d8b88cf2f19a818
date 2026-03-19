@@ -1,0 +1,25 @@
+src/main/libs/coworkOpenAICompatProxy.ts
+  57c726ac8ed1ab61 895,901-911,918-923,929-937
+src/main/libs/mcpBridgeServer.ts
+  57c726ac8ed1ab61 86,94,108,115,120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "c9397c6ebcd0ec6f57e144d32d8b88cf2f19a818",
+  "prompts": {
+    "57c726ac8ed1ab61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c978b6cb-0ceb-4ecd-bf7d-fc920bb4d8d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhaochong <zhaochong01@corp.netease.com>",
+      "messages": [],
+      "total_additions": 34,
+      "total_deletions": 6,
+      "accepted_lines": 34,
+      "overriden_lines": 0
+    }
+  }
+}
