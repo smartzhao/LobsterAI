@@ -1,0 +1,27 @@
+src/main/libs/coworkRunner.ts
+  57c726ac8ed1ab61 32,1934-1938,2348-2363,2370-2371,2381,2386-2388,2407,2412-2414,2430,2433-2438
+src/renderer/services/i18n.ts
+  57c726ac8ed1ab61 442,1383
+src/renderer/services/cowork.ts
+  57c726ac8ed1ab61 53-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "21e9757c468c9571fe3a55a2308e0b444741957f",
+  "prompts": {
+    "57c726ac8ed1ab61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c978b6cb-0ceb-4ecd-bf7d-fc920bb4d8d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhaochong <zhaochong01@corp.netease.com>",
+      "messages": [],
+      "total_additions": 50,
+      "total_deletions": 6,
+      "accepted_lines": 46,
+      "overriden_lines": 0
+    }
+  }
+}
