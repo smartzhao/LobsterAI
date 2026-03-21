@@ -1,0 +1,23 @@
+src/main/libs/openclawMemoryFile.ts
+  57c726ac8ed1ab61 42-77,83,419,506
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "b0350059cb1433a020a942ca49ed392a5c052add",
+  "prompts": {
+    "57c726ac8ed1ab61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c978b6cb-0ceb-4ecd-bf7d-fc920bb4d8d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhaochong <zhaochong01@corp.netease.com>",
+      "messages": [],
+      "total_additions": 40,
+      "total_deletions": 5,
+      "accepted_lines": 40,
+      "overriden_lines": 0
+    }
+  }
+}
